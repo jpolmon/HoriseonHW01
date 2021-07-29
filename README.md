@@ -11,9 +11,9 @@ The site can be found at: https://jpolmon.github.io/HoriseonHW01/
 
 When visited the site should appear as:  
 
-![Top third of the page](./images/Homepage-pic-1.png)
-![Middle third of the page](./images/Homepage-pic-2.png)
-![Bottom third of the page](./images/HOmepage-pic-3.png)
+![Top third of the page](./assets/images/Homepage-pic-1.png)
+![Middle third of the page](./assets/images/Homepage-pic-2.png)
+![Bottom third of the page](./assets/images/Homepage-pic-3.png)
 
 
 
